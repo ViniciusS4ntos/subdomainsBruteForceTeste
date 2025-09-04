@@ -19,6 +19,7 @@ Este é um **script Python** para testar subdomínios ou caminhos em uma URL bas
 ## ⚙️ Requisitos
 
 - Python 3.x
+- wordlist
 - Biblioteca `requests`
 
 Instale o `requests`:
