@@ -1,4 +1,6 @@
 # BruteForce 1.0v (Subdomain Finder)
+![Python Version](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 
 Este é um **script Python** para testar subdomínios ou caminhos em uma URL base usando uma wordlist.
 
